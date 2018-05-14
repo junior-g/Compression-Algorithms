@@ -7,3 +7,7 @@
   Also I implemented as efficient as I can do.
   
   Suggestions invited for more efficient implementation and with greater range of coverage (example for image compression).
+
+
+2>LZW
+  I just used LZW encoding and decoding method over input string.
